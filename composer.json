@@ -1,0 +1,13 @@
+{
+    "name": "sujan/mvcframework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sujanstha2052",
+            "email": "sujanstha2052@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
